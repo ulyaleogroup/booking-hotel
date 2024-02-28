@@ -84,19 +84,19 @@ import {
                        Bird Software
                       </div>
                       <p className="text-sm leading-tight text-muted-foreground">
-                      eCommerce platform for selling digital products.
+                      Lorem ipsum dolor sit amet consectetur adipisicing.
                       </p>
                     </a>
                   </NavigationMenuLink>
                 </li>
                 <ListItem  title="Introduction">
-                    Learn about the basics of Bird.
+                    Lorem ipsum dolor sit amet.
                 </ListItem>
                 <ListItem  title="Demo">
-                  How to build a store in 60 seconds with Bird
+                  Lorem ipsum dolor sit amet consectetur.
                 </ListItem>
                 <ListItem  title="Community">
-                    Join the community and get help or support.
+                    Lorem ipsum dolor sit amet consectetur.
                 </ListItem>
               </ul>
             </NavigationMenuContent>
